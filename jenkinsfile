@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage ("test") {
+    stage ("ravi test") {
       steps {
         echo 'app-testing.'
       }
