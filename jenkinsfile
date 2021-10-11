@@ -5,7 +5,8 @@ pipeline {
       steps {
         echo 'app-testing.'
       }
-    }}
+    }
+   }
 }
 
 
