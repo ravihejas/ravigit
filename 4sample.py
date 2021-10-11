@@ -1,1 +1,0 @@
-print ("testing by clone")
