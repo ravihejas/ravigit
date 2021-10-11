@@ -11,12 +11,6 @@ pipeline {
         echo 'app-building..'
       }
     }
-    stage ("deploy") {
-      steps {
-        echo 'app-deploying...'
-      }
-    }
- }
 }
 
 
