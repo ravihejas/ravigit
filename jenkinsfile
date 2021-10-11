@@ -5,12 +5,7 @@ pipeline {
       steps {
         echo 'app-testing.'
       }
-    }
-    stage ("build") {
-      steps {
-        echo 'app-building..'
-      }
-    }
+    }}
 }
 
 
